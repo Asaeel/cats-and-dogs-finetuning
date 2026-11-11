@@ -14,3 +14,7 @@ An image classification project that fine-tunes a pre-trained model to classify 
 - Python
 - TensorFlow / Keras or PyTorch (depending on what's used in the code)
 - NumPy, Matplotlib
+
+---
+
+تم عمل المشروع مع زميلتي [@reemfaiz](https://github.com/reemfaiz)
